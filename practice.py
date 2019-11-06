@@ -46,3 +46,20 @@ elif z%2 == 1:
   print(z)
 else:
   print('none are odd')
+
+for n in range (3,5):
+	print (n)
+
+
+mysum =0
+for n in range (8,15):
+	mysum +=n
+	print (n)
+
+
+mysum =0
+for n in range (8,15,2):
+	print (n)
+
+
+
