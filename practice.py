@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+#docker run -it --rm -v`pwd`:/tmartin midsw205/base:latest
 
 
 #Assume that two variables, varA and varB, are assigned values, either numbers or strings. 
