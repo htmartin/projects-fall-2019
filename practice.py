@@ -51,11 +51,14 @@ else:
 for n in range (3,5):
 	print (n)
 
+for n in range (3,30,3):
+	print (n)
+
 
 mysum =0
-for n in range (8,15):
+for n in range (1,5):
 	mysum +=n
-	print (n)
+	print (mysum)
 
 
 mysum =0
