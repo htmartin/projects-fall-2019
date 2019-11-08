@@ -56,14 +56,28 @@ for n in range (3,30,3):
 
 
 mysum =0
-for n in range (1,5):
+for n in range (1,5,2):
 	mysum +=n
 	print (mysum)
+	
 
+
+	break
+
+
+
+	break
 
 mysum =0
 for n in range (8,15,2):
 	print (n)
+
+
+
+
+
+text = input("Type anything... ")
+print(5*text)
 
 
 
