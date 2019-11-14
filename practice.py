@@ -79,5 +79,16 @@ for n in range (8,15,2):
 text = input("Type anything... ")
 print(5*text)
 
+n=0
+while n<5:
+	print (n)
+	n = n+
 
+n=0
+while n<5:
+	print (n)
+	n = n+1
 
+n= raw_input('You are in the dragon lair. Leave or stay?')
+while n ==stay:
+print ('Youre dead!')
