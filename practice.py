@@ -55,6 +55,22 @@ for n in range (3,30,3):
 	print (n)
 
 
+range (3,5)
+
+
+'123456789'[0:5]
+0=1
+1=2
+2=3
+3=4
+4=5
+5=6
+6=7
+7=8
+8=9
+9=
+
+
 mysum =0
 for n in range (1,5,2):
 	mysum +=n
@@ -89,6 +105,4 @@ while n<5:
 	print (n)
 	n = n+1
 
-n= raw_input('You are in the dragon lair. Leave or stay?')
-while n ==stay:
-print ('Youre dead!')
+
