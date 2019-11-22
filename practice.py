@@ -70,6 +70,20 @@ range (3,5)
 8=9
 9=
 
+'digdogdug'[4]
+
+'digdogdug'[0:5]
+0=d
+1=i
+2=g
+3=d 
+4=o
+5=g
+6=d
+7=u
+8=g
+9=
+
 
 mysum =0
 for n in range (1,5,2):
@@ -105,4 +119,9 @@ while n<5:
 	print (n)
 	n = n+1
 
+text = input("Type anything... ")
+print(5*text)
+
+num= int(input("Type a number... "))
+print(5*num)
 
