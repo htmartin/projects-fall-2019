@@ -125,3 +125,21 @@ print(5*text)
 num= int(input("Type a number... "))
 print(5*num)
 
+
+x=3
+ans=0
+il=x
+while (il !=0):
+	ans=ans+x
+	il=il-1
+	print(str(x)+str(x)+'='+ str(ans))
+
+
+
+#Write a program that asks the user to input 10 integers, and then prints the largest odd number 
+#that was entered. If no odd number was entered, it should print a message to that effect.
+
+
+
+
+
