@@ -143,3 +143,64 @@ while (il !=0):
 
 
 
+text = str(input("Type 3 integers "))
+
+x=text[0]
+y=text[1]
+z=text[2]
+
+
+
+if x>y and x>z and x%2 == 1:
+  print(x)
+elif y>z and y%2 == 1:
+  print(y)
+elif z%2 == 1:
+  print(z)
+else:
+  print('none are odd')
+
+
+
+#Convert the following into code that uses a while loop.
+
+print 2
+prints 4
+prints 6
+prints 8
+prints 10
+print('Goodbye!')
+
+x=2
+while x<11:
+	print(x)
+	x+=2
+print('Goodbye!')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
